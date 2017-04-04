@@ -1,4 +1,4 @@
-#Zabbix Templates for VMware ESXi/ESX monitoring 
+# Zabbix Templates for VMware ESXi/ESX monitoring 
 
 ## Description
 Basic VMware Host monitoring templates.
