@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>3.0</version>
-    <date>2017-04-04T07:24:19Z</date>
+    <date>2017-04-04T13:54:06Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -921,8 +921,8 @@
                     <snmp_community/>
                     <snmp_oid/>
                     <key>vmware.hv.datastore.discovery[{$URL},{HOST.HOST}]</key>
-                    <delay>10800</delay>
-                    <status>1</status>
+                    <delay>21600</delay>
+                    <status>0</status>
                     <allowed_hosts/>
                     <snmpv3_contextname/>
                     <snmpv3_securityname/>
@@ -958,7 +958,7 @@
                             <delay>60</delay>
                             <history>90</history>
                             <trends>365</trends>
-                            <status>1</status>
+                            <status>0</status>
                             <value_type>3</value_type>
                             <allowed_hosts/>
                             <units/>
@@ -1002,7 +1002,7 @@
                             <delay>60</delay>
                             <history>90</history>
                             <trends>365</trends>
-                            <status>1</status>
+                            <status>0</status>
                             <value_type>3</value_type>
                             <allowed_hosts/>
                             <units/>
